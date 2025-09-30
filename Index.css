@@ -872,7 +872,7 @@ body, html {
       .book-form select {
         font-size: 15px;
         height: 42px;
-        width: 80%;
+        width: 90%;
       }
       .book-form button {
         width: 160px;
@@ -880,7 +880,7 @@ body, html {
       }
       .book-map iframe {
         height: 300px;
-        width: 340px;
+        width: 360px;
       }
     }
     
@@ -1136,5 +1136,6 @@ body, html {
         flex-wrap: wrap;
       }
     }
+
 
 
